@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @musafar sakeen
-- 👀 I’m interested in Coding& Machine Learing
-- 🌱 I’m currently Pursuing Btech
-- 📫 Reach me Through Whatsapp:+917559096800
+- 👋 HELLO, I'M MUSAFAR SAKEEN
+🚀 Software engineer passionate about building scalable and efficient solutions. I enjoy tackling complex problems and turning them into elegant and user-friendly applications. My expertise lies in Machine Learning,Backend Development,Mobile App Development and Web Development .
+🌱 Constantly learning and exploring new technologies, I am skilled in Python,C/C++,Java,SQL,Flutter,Android,HTML,CSS,JS,Tensorflow,Django.
+- 📫 You can reach me via Whatsapp :7559096800
+      or Linkedln : https://in.linkedin.com/in/musafarsakeen 
 
-<!---
-muzafirsakeen/muzafirsakeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌍 Let's connect, collaborate, and create amazing software together!
+
